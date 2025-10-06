@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+openai-whisper
+transformers
+torch
+sentence-transformers
+python-multipart
+soundfile
