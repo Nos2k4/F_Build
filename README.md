@@ -1,6 +1,6 @@
  ⚙️ Setup & Run
      Setup :
-     Need python installed 
+     Need python installed ,
      you may need to add ffmpeg to your enviornnment
      
     PyTorch (for deep learning)
