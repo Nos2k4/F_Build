@@ -13,18 +13,19 @@
     
     FFmpeg wrapper, NumPy, and TQDM for smooth processing
 
-1️⃣ Install all dependencies
-bash
-pip install torch transformers openai-whisper tk ffmpeg-python numpy tqdm
+1️⃣ Install all dependencies:
+
+    pip install torch transformers openai-whisper tk ffmpeg-python numpy tqdm
 
 Run the program with :
-python verbal_plagiarism_gui.py
+    
+    python verbal_plagiarism_gui.py
  
 
-    // the dependancies will be installed but if you face any errors , try downloading the ffmpeg
+  // the dependancies will be installed but if you face any errors , try downloading the ffmpeg
     For Windows:
 
-    Download from https://ffmpeg.org/download.html
+  Download from https://ffmpeg.org/download.html
     
     Extract it (e.g., C:\ffmpeg)
     
