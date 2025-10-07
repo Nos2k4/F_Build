@@ -21,6 +21,9 @@ Run the program with :
     
     python verbal_plagiarism_gui.py
  
+Run through vscode or through cmd
+All files except for verbal_plagiarism_gui.py can be ignored,
+utk.opus,utk1.wav etc are testfiles
 
   // the dependancies will be installed but if you face any errors , try downloading the ffmpeg
     For Windows:
