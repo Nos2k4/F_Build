@@ -15,7 +15,7 @@
 
 1️⃣ Install all dependencies:
 
-    pip install torch transformers openai-whisper tk ffmpeg-python numpy tqdm
+    pip install torch transformers openai-whisper customtkinter sounddevice soundfile numpy tqdm
 
 Run the program with :
     
